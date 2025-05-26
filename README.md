@@ -1,5 +1,5 @@
 ![Aurisus Tech_20250420_170739_0000](https://github.com/user-attachments/assets/38bee851-7998-4c6b-836d-51ac2eb240b6)
-<!DOCTYPE html><html>
+<html>
 <head>
   <title>Aurisus™ | Experience Tech Differently</title>
 </head>
@@ -30,4 +30,4 @@
     Copyright 2025 Aurisus | All rights reserved.
   </footer>
 </body>
-</html>
+
